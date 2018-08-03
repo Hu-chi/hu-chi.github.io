@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hu-chi.github.io/2018/08/03/hadoop/wordcount/</loc>
+    
+    <lastmod>2018-08-03T18:35:17.372Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/404/index.html</loc>
+    
+    <lastmod>2018-08-03T18:33:44.812Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/about/index.html</loc>
+    
+    <lastmod>2018-08-03T18:29:59.617Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/tags/index.html</loc>
+    
+    <lastmod>2018-08-03T18:25:12.699Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hu-chi.github.io/2017/01/07/%E7%BD%91%E9%A1%B5%E5%AD%A6%E4%B9%A0/%E6%B5%8B%E8%AF%95jsDOM%E7%AC%94%E8%AE%B0/</loc>
     
     <lastmod>2018-08-03T18:04:47.749Z</lastmod>
