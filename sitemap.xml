@@ -2,9 +2,233 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hu-chi.github.io/2017/01/07/%E7%BD%91%E9%A1%B5%E5%AD%A6%E4%B9%A0/%E6%B5%8B%E8%AF%95jsDOM%E7%AC%94%E8%AE%B0/</loc>
+    
+    <lastmod>2018-08-03T18:04:47.749Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hu-chi.github.io/2018/08/03/hadoop/Linux%E5%AE%89%E8%A3%85hadoop/</loc>
     
     <lastmod>2018-08-03T17:24:04.573Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2018/03/19/machineLearning/Lesson1/</loc>
+    
+    <lastmod>2018-03-19T11:10:12.264Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/12/29/%E9%9A%8F%E7%AC%94%E9%9B%86/2017%E5%B9%B4%E6%9C%AB%E6%80%BB%E7%BB%93/</loc>
+    
+    <lastmod>2017-12-29T13:18:48.975Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/12/21/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/python%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F(4)/</loc>
+    
+    <lastmod>2017-12-21T07:13:53.806Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/12/20/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/python%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F(3)/</loc>
+    
+    <lastmod>2017-12-19T13:56:38.825Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/12/19/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/python%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F(2)/</loc>
+    
+    <lastmod>2017-12-18T16:06:53.589Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/10/24/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/python%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F(1)/</loc>
+    
+    <lastmod>2017-10-24T11:43:28.094Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/09/12/fluentPython/fluent_python5/</loc>
+    
+    <lastmod>2017-10-08T13:53:13.682Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/09/12/fluentPython/fluent_python2/</loc>
+    
+    <lastmod>2017-09-12T13:30:17.539Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/09/08/fluentPython/fluent_python1/</loc>
+    
+    <lastmod>2017-09-08T16:27:30.646Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/09/08/acm/%E5%BE%AA%E7%8E%AF%E8%8A%82/</loc>
+    
+    <lastmod>2017-09-08T16:18:29.779Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/09/08/acm/01%E5%88%86%E6%95%B0%E8%A7%84%E5%88%92/</loc>
+    
+    <lastmod>2017-09-08T12:33:56.230Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/08/17/acm/%E5%A4%A7%E6%95%B0%E6%A8%A1%E6%9D%BF/</loc>
+    
+    <lastmod>2017-08-17T04:53:26.598Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/08/17/acm/%E5%A0%86%E6%8E%92%E5%BA%8F/</loc>
+    
+    <lastmod>2017-08-17T04:50:08.372Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/08/17/acm/%E5%AE%B9%E6%96%A5%E5%8E%9F%E7%90%86/</loc>
+    
+    <lastmod>2017-08-17T04:44:57.805Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/08/10/acm/%E4%B8%89%E5%88%86%E4%B8%8E%E9%80%80%E7%81%AB%E6%A8%A1%E6%8B%9F/</loc>
+    
+    <lastmod>2017-08-10T10:42:50.343Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/08/05/acm/Acdreamer%E5%8D%9A%E5%AE%A2%E6%95%B0%E8%AE%BA%E5%AD%A6%E4%B9%A0(2)/</loc>
+    
+    <lastmod>2017-08-04T08:22:15.828Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/08/04/acm/%E4%BB%8Edp%E7%9A%84%E5%85%A8%E4%B8%96%E7%95%8C%E8%B7%AF%E8%BF%87(1)/</loc>
+    
+    <lastmod>2017-08-04T07:53:57.478Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/07/19/acm/%E9%AB%98%E6%96%AF%E6%B6%88%E5%85%83/</loc>
+    
+    <lastmod>2017-07-30T21:52:28.085Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/07/19/acm/Acdreamer%E5%8D%9A%E5%AE%A2%E6%95%B0%E8%AE%BA%E5%AD%A6%E4%B9%A0(1)/</loc>
+    
+    <lastmod>2017-07-21T17:37:55.292Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/07/20/acm/%E4%BD%8E%E7%AD%89%E6%95%B0%E8%AE%BA1/</loc>
+    
+    <lastmod>2017-07-20T17:24:24.056Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/07/07/acm/7-7acm%E6%95%B4%E7%90%86%E7%AC%94%E8%AE%B0/</loc>
+    
+    <lastmod>2017-07-18T03:16:20.702Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/07/16/acm/%E6%95%B0%E8%AE%BA%E5%9F%BA%E7%A1%80%E4%B8%93%E9%A2%98%E6%95%B4%E7%90%86(1)/</loc>
+    
+    <lastmod>2017-07-15T23:42:48.424Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/07/12/acm/%E6%95%B0%E4%BD%8Ddp/</loc>
+    
+    <lastmod>2017-07-11T20:41:53.490Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/07/09/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E6%8B%86%E6%8E%89%E6%80%9D%E7%BB%B4%E9%87%8C%E7%9A%84%E5%A2%99(%E4%B8%8B)/</loc>
+    
+    <lastmod>2017-07-09T09:53:04.352Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/06/30/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E6%8B%86%E6%8E%89%E6%80%9D%E7%BB%B4%E9%87%8C%E7%9A%84%E5%A2%99(%E4%B8%8A)/</loc>
+    
+    <lastmod>2017-06-30T09:12:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/06/28/%E8%84%9A%E6%9C%AC/Script_ascii/</loc>
+    
+    <lastmod>2017-06-28T23:43:50.248Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/06/27/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E5%93%88%E4%BD%9B%E7%9A%846%E5%A0%82%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83%E8%AF%BE/</loc>
+    
+    <lastmod>2017-06-26T21:24:15.600Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/06/24/%E7%BD%91%E9%A1%B5%E5%AD%A6%E4%B9%A0/djangoStart01/</loc>
+    
+    <lastmod>2017-06-24T02:03:40.751Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/06/14/Linux-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E8%AE%A4%E8%AF%86/</loc>
+    
+    <lastmod>2017-06-21T10:39:16.510Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/06/10/python%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B-init/</loc>
+    
+    <lastmod>2017-06-10T07:21:29.928Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hu-chi.github.io/2017/06/07/%E9%9A%8F%E7%AC%94%E9%9B%86/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</loc>
+    
+    <lastmod>2017-06-07T07:06:55.728Z</lastmod>
     
   </url>
   
